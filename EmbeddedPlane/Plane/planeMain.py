@@ -5,7 +5,14 @@
     Start Date: 29/12/2022"""
 
 #Source Files of code to be imported 
-#import 
-#import
+#import planeMovement.py
+#import planeInit.py as init
 
 #How do I want to break controls down??
+
+main() {
+    #Setup initial conditions 
+    init.planeInit();
+
+
+}

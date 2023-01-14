@@ -5,7 +5,9 @@
     the voltage applied to the fin motor it would change the adjustment like the scaling of an
     PWM (Pulse Wave Modulator)
     
-    How do compound movements get considered :Could use a Switch????
+    How do compound movements get considered :
+    Could use a Switch????
+    Split functionality between Wing Tail and top??
 
     Options table Roll, Yaw & Nose
     --------------------------------
